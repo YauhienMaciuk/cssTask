@@ -1,0 +1,132 @@
+body {
+  position: relative;
+}
+
+.avatarDiv {
+  position: relative;
+}
+
+.fa {
+	padding: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+	background: #3B5998;
+	color: white;
+  position: relative;
+  right: 100px;
+  bottom: 30px;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+  position: relative;
+  right: 370px;
+  bottom: 250px;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+  position: relative;
+  right: 320px;
+  bottom: 0px;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+  position: relative;
+  right: 250px;
+  bottom: 100px;
+}
+
+.avatarImg {
+  width: 320px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.squareCadetBlue {
+  width: 400px;
+  height: 600px;
+  background: #5F9EA0;
+  position: relative;
+  left: 400px;
+  bottom: 60px;
+}
+
+.squareDarkBlue  {
+  width: 400px;
+  height: 600px;
+  background: #00008B;
+  position: absolute;
+  left: 395px;
+  bottom: 65px;
+}
+
+.squareTomato {
+  width: 400px;
+  height: 600px;
+  background: #FF6347;
+  position: absolute;
+  left: 390px;
+  bottom: 70px;
+}
+
+.infoTable {
+  width: 350px;
+  height: 120px;
+  background: #000000;
+  position: absolute;
+  left: 700px;
+  bottom: 20px;
+  opacity: 0.5;
+}
+
+.squareYellow {
+  width: 85px;
+  height: 85px;
+  background:   #FFFF00;
+  position: absolute;
+  left: 720px;
+  bottom: 37px;
+}
+
+.infoText {
+  color: #FFFFFF;
+  position: absolute;
+  left: 120px;
+  top: 15%;
+  text-align: center;
+}
+
+.infoEmail {
+  color: #FFFFFF;
+  position: absolute;
+  left: 120px;
+  top: 30%;
+  text-align: center;
+}
+
+.infoPhone {
+  color: #FFFFFF;
+  position: absolute;
+  left: 120px;
+  top: 45%;
+  text-align: center;
+}
+
+.infoContactPerson {
+  color: #FFFFFF;
+  position: absolute;
+  left: 120px;
+  top: 60%;
+  text-align: center;
+}
